@@ -1,0 +1,8 @@
+.env
+venv/
+venv1/
+venv_312/
+*.pdf
+__pycache__/
+.idea/
+*.ttf
